@@ -1,0 +1,7 @@
+data/com.gir.test.desktop.in
+data/com.gir.test.appdata.xml.in
+data/com.gir.test.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+
